@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SeleniumCucumberSuite" verbose="1">
+    <test name="SeleniumCucumberTest">
+        <classes>
+            <class name="com.yourcompany.tests.LoginTest"/>
+        </classes>
+    </test>
+</suite>
